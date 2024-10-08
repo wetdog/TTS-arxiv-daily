@@ -1,10 +1,10 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "liutaocode"
+user_name: "wetdog"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: False
+show_badge: True
 max_results: 10
 
 publish_readme: True
