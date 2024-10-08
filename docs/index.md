@@ -2,6 +2,11 @@
 layout: default
 ---
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 ## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -736,4 +741,13 @@ layout: default
 |**2022-11-05**|**Nix-TTS: Lightweight and End-to-End Text-to-Speech via Module-wise Distillation**|Rendi Chevi et.al.|[2203.15643](http://arxiv.org/abs/2203.15643)|**[link](https://github.com/rendchevi/nix-tts)**|
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
+
+[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 
