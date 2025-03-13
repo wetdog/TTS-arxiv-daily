@@ -19,13 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**An Exhaustive Evaluation of TTS- and VC-based Data Augmentation for ASR**|Sewade Ogun et.al.|[2503.08954](http://arxiv.org/abs/2503.08954)|null|
 |**2025-03-03**|**Direct Speech to Speech Translation: A Review**|Mohammad Sarim et.al.|[2503.04799](http://arxiv.org/abs/2503.04799)|null|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
 |**2025-03-06**|**Scaling Rich Style-Prompted Text-to-Speech Datasets**|Anuj Diwan et.al.|[2503.04713](http://arxiv.org/abs/2503.04713)|null|
 |**2025-03-04**|**InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training**|Dingdong Wang et.al.|[2503.02769](http://arxiv.org/abs/2503.02769)|null|
 |**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-02**|**UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation**|Alexander H. Liu et.al.|[2503.00733](http://arxiv.org/abs/2503.00733)|null|
-|**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
+|**2025-03-12**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
 |**2025-02-26**|**Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis**|Ziyue Jiang et.al.|[2502.18924](http://arxiv.org/abs/2502.18924)|null|
 |**2025-03-08**|**Clip-TTS: Contrastive Text-content and Mel-spectrogram, A High-Quality Text-to-Speech Method based on Contextual Semantic Understanding**|Tianyun Liu et.al.|[2502.18889](http://arxiv.org/abs/2502.18889)|null|
 |**2025-02-24**|**Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**|Jiatong Shi et.al.|[2502.16897](http://arxiv.org/abs/2502.16897)|null|
